@@ -18,8 +18,3 @@ export function romanToInteger(str) {
      */
     return result;
 }
-// expect(romanToInteger('II')).toBe(2);
-//                              ^
-// expect(romanToInteger('XVI')).toBe(16);
-// expect(romanToInteger('XXXVII')).toBe(37);
-// expect(romanToInteger('MMMCDXLIV')).toBe(3444);
